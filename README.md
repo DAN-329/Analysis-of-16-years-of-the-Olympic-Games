@@ -1,0 +1,2 @@
+# Analysis-of-16-years-of-the-Olympic-Games
+Our goal was to perform some analysis on the people participating in sports. For this reason we decided to look at the Olympic games as it has been held for over 100 years and is well recorded. This allowed us to shed light on major insights in modern Olympic history through various analysis on the data such as correlations, numerical patterns, verification of hypotheses etc.
